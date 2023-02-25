@@ -1,0 +1,25 @@
+{
+  "name": "node-p-2",
+  "version": "1.0.0",
+  "description": "Check the given is prime or not",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musharraf188/Node-P-2.git"
+  },
+  "author": "Mushrraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Musharraf188/Node-P-2/issues"
+  },
+  "homepage": "https://github.com/Musharraf188/Node-P-2#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
